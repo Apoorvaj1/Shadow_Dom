@@ -8,8 +8,8 @@ public class Palindrome_String {
         System.out.println("Enter any string");
         String str = sc.next();
         String revstr ="";
-        int strlength = str.length();
-        for(int i=(strlength-1);i>=0;i--){
+        int strlength = str.length()-1;
+        for(int i=strlength;i>=0;i--){
             revstr = revstr + str.charAt(i);
         }
         if(str.toLowerCase().equals(revstr.toLowerCase())){
