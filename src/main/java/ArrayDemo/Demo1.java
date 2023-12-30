@@ -16,7 +16,7 @@ public class Demo1 {
         int[] a2 = {2,3,4};
         int[] a3 = {5,6};
         //a2=a3;
-        a3=a2;
+        a3=a2;   //internally values won't be copied just reference variable will be reassigned.
         System.out.println(a2.length);
         System.out.println(a3.length);
 
@@ -41,5 +41,21 @@ public class Demo1 {
         System.out.println(age2[0]);
         System.out.println(age2[0][0]);
 
+        Object[] obj = new Object[4];
+        obj[0]=new Object();
+        obj[1]=new String("Apoorv");
+        System.out.println(obj[0]);
+        System.out.println(obj[1]);
+
+        Runnable[] run = new Runnable[2];
+        run[0] = new Thread();
+        System.out.println(run[0]);
+
+        String[] s={"AA","BB","CCC","D"};
+        Object[] obj3=s;
+        for(int k=0;k<obj3.length;k++){
+            System.out.println(obj3[k]);
+        }
+        System.out.println(s[0].length());
     }
 }
