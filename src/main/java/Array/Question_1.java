@@ -26,7 +26,9 @@ public class Question_1 {
             array[i]=sc.nextInt();
         }
         System.out.println(Arrays.toString(array));
-        verifyNumber(array,5);
+        System.out.println("Enter number that you want to search");
+        int n1 = sc.nextInt();
+        verifyNumber(array,n1);
 
     }
 }

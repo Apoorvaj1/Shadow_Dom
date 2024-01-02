@@ -14,7 +14,7 @@ public class FindDuplicateElement {
             arr[i]=sc.nextInt();
         }
         System.out.println("Output");
-            System.out.println(Arrays.toString(arr));  // Print element in the form of array
+            System.out.println(Arrays.toString(arr));  //Array to String
 
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+"\t");
