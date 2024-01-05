@@ -18,6 +18,7 @@ public class Ques {
         System.out.println(str.length());
         char[] ch = str.toCharArray();
         System.out.println(ch);
+        System.out.println("-----------------------");
         System.out.println(ch.length);
         System.out.println(Arrays.toString(ch));
         System.out.println(ch[2]);

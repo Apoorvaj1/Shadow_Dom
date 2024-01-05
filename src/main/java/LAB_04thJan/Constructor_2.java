@@ -4,6 +4,10 @@ public class Constructor_2 {
     String name;
     int roll_no;
 
+    public String toString(){
+        return "Apoorv";
+    }
+
     Constructor_2(String name){
             this.name = name;
     }
@@ -18,5 +22,6 @@ public class Constructor_2 {
         System.out.println(const2.name+"  "+const2.roll_no);
         System.out.println(const3.name+"  "+const3.roll_no);
         System.out.println(const3.name);
+        System.out.println(const2);
     }
 }
