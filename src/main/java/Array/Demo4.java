@@ -22,5 +22,13 @@ public class Demo4 {
         System.out.println(name1.length());
         StringBuffer name3 = new StringBuffer();
         System.out.println(name3.capacity());
+        System.out.println("-----------------------");
+        StringBuffer sb5 = new StringBuffer();
+        sb5.append("Apoorv44444444444");
+        System.out.println(sb5.capacity());
+
+        StringBuilder sb6 = new StringBuilder();
+        sb6.append("fffffffffffffffff");
+        System.out.println(sb6.capacity());
     }
 }
