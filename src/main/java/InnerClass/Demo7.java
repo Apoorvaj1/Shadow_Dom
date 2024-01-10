@@ -1,11 +1,11 @@
 package InnerClass;
 
 public class Demo7 {
-    int a = 10;
+    int a = 10; //Outer class Instance variable
     class Inner{
-        int a = 100;
+        int a = 100; // Inner class Instance variable
         public void m1(){
-           int a = 1000;
+           int a = 1000; //Inner class local variable
             System.out.println(a);
             System.out.println(this.a);
             System.out.println(Demo7.this.a);
