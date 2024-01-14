@@ -14,7 +14,6 @@ public class Sumoftwoandcheckthird {
         boolean bool = false;
         if((first+second)==third){
             bool = true;
-
         }
         System.out.println("The result is "+bool);
     }

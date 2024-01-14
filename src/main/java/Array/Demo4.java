@@ -18,6 +18,7 @@ public class Demo4 {
         StringBuffer name1 = new StringBuffer();
         name1.append("ABCFDFFFFFFFFFFF");
         name1.append("g");
+        //name1.trimToSize();
         System.out.println(name1.capacity());
         System.out.println(name1.length());
         StringBuffer name3 = new StringBuffer();
