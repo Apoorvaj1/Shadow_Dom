@@ -5,25 +5,27 @@ import java.util.Arrays;
 
 public class StringClass {
 
-    public String toString(){
+    /*public String toString(){
         return "test";
-    }
+    }*/
     public static void main(String[] args) {
         String[] a = {"Apoorv", "Jain"};
         System.out.println(a[0]);
+        System.out.println(a);
         System.out.println(a.getClass().getName());
         System.out.println(a.toString());
+        System.out.println("----------------------");
         String b = new String("Apoorv");
         System.out.println(b.getClass().getName());
         StringClass ab = new StringClass();
-        System.out.println(ab);
+        System.out.println(ab.getClass().getSimpleName());
         String aa2 = "Apoorv";
         System.out.println(aa2);
 
         System.out.println("---------------------------");
 
-        ArrayList array = new ArrayList();
-        System.out.println(array.getClass().getName());   // java.util.ArrayList
+        ArrayList<Integer> array = new ArrayList<>();
+        System.out.println(array.getClass().getSimpleName());   // java.util.ArrayList
         array.add(10);
         array.add(12);
         System.out.println(array);
@@ -33,6 +35,7 @@ public class StringClass {
 
         byte[] b1 = {60,34,56,77};
         System.out.println(b1);
+        System.out.println("---------------++++______");
         System.out.println(Arrays.toString(b1));
 
         int[] i1 = {45,56,65,33};

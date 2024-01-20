@@ -11,9 +11,11 @@ public class Demo1 {
         System.out.println(s1.getClass().getName());
         String s2 = new String("Apoorv");
         System.out.println(s2.getClass().getName());
+        System.out.println("------------------------");
         String[] s3 = new String[]{"Apoorv","Jain"};
         System.out.println(s3.getClass().getName());
         System.out.println(s3);
+        System.out.println(s3.getClass().getSimpleName());
         System.out.println(s2);
     }
 }
