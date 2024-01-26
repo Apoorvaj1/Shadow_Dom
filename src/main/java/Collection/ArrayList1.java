@@ -3,6 +3,7 @@ package Collection;
 import java.util.Iterator;
 import java.util.List;
 import java.util.ArrayList;
+import java.util.ListIterator;
 
 public class ArrayList1 {
     public static void main(String[] args) {
@@ -10,10 +11,11 @@ public class ArrayList1 {
         list.add("Apoorv");
         list.add("Jain");
         List<String> a =List.of("AB","BC","CD");
-        List<String> b =List.of("AB","BC","CD");
+        List<Object> b =List.of("AB","BC","CD",true,10);
 
         System.out.println(list);
         System.out.println(a);
+        System.out.println(b);
 
         System.out.println("---------------------------");
 
@@ -72,6 +74,22 @@ public class ArrayList1 {
         Iterator iterator = list.iterator();
         while (iterator.hasNext()){
             System.out.println(iterator.next());
+        }
+        System.out.println();
+
+        List<Object> ab1 = List.of("Apoorv","Jain");
+        System.out.println(ab1);
+
+        System.out.println("--------------------------------");
+
+        ArrayList<Object> abc = new ArrayList<>();
+        abc.add("Apoorv");
+        abc.add(null);
+        System.out.println(abc);
+
+        ListIterator li = list.listIterator();
+        while(li.hasNext()){
+            System.out.println(li.next());
         }
 
     }

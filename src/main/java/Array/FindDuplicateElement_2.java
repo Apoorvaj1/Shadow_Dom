@@ -19,15 +19,21 @@ public class FindDuplicateElement_2 {
             System.out.println(a[i]);
         }
 
-        System.out.println("Duplicate values:");
+        System.out.println(Arrays.toString(a));
+        boolean flag = false;
+
         for(int i=0;i<a.length;i++){
             count =1;
             for( int j=i+1;j<a.length;j++){
                 if(a[i]==a[j] && a[i]!=' '){
                     count++;
-                    System.out.println(a[j] +"\t" +count);
+                    System.out.println("Duplicate value: "+a[i] +"\t" +count);
+                    flag=true;
                 }
             }
+        }
+        if(flag==false){
+            System.out.println("No duplicates found");
         }
     }
 }

@@ -29,6 +29,8 @@ public class CharaterArraytoString {
         }
 
         System.out.println();
+        System.out.println("-----------------------------------------");
+
 
         String[] d = {"Apoorv", "AJ"};
         String d1 = new String(Arrays.toString(d));
