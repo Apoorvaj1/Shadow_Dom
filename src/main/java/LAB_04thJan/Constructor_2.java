@@ -26,6 +26,8 @@ public class Constructor_2 {
         System.out.println(const3.name+"  "+const3.roll_no);
         System.out.println(const3.name);
         System.out.println(const2);*/
+        Constructor_2 const2 = new Constructor_2("Apoorv");
+        System.out.println(const2.name+"  "+const2.roll_no);
         Constructor_2 a = new Constructor_2();
         System.out.println(a.getClass().getSimpleName());   //Only Class name
         System.out.println(a.getClass().getName());// Along with class name ...package name also

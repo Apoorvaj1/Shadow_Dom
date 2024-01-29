@@ -14,6 +14,8 @@ public class Stream_1 {
         System.out.println(a);
         System.out.println("--------------------------");
         a.stream().forEach(System.out::println);
+        a.stream().forEach(n -> System.out.print(n+ " "));
+        System.out.println();
         System.out.println("-----------------------");
         long number = a.stream().count();
         System.out.println(number);
@@ -53,6 +55,9 @@ public class Stream_1 {
         Integer list10 = a.stream().min((i1,i2) -> i1.compareTo(i2)).get();
         System.out.println(list10);
 
+        Integer list11 = a.stream().sorted().min((i1,i2) -> i2.compareTo(i1)).get();
+        System.out.println(list11);
+
         System.out.println("-------------------------------------------------");
         List<String> arr1 = Arrays.asList("Apoorv","Jain",null,"Jain");
         List<String> arr3= new ArrayList<>();
@@ -68,6 +73,9 @@ public class Stream_1 {
             System.out.print(s+" ");
         }
         System.out.println();
+
+        System.out.println(arr3.set(1,"Agrawal"));   //Jain
+        System.out.println(arr3); //[Apoorv, Agrawal, Jain]
         System.out.println("---------------++  ++  ++ ---------------------");
 
 
@@ -76,6 +84,23 @@ public class Stream_1 {
         Object[] i1 = a.toArray();
         System.out.println(i1.length);
         System.out.println(Arrays.toString(i1));
+
+        List<Integer> ab = Arrays.asList(12,2,5,16);
+        System.out.println(ab);
+        Object[] ab1 = ab.toArray();
+        System.out.println(ab1);
+        for(Object ab2:ab1){
+            System.out.print(ab2+" ");
+        }
+        System.out.println();
+        System.out.println(Arrays.toString(ab1));
+        System.out.println("------------------------------------------");
+
+        Integer[] a12 = {12,5,78,90};
+        Arrays.sort(a12);
+        System.out.println(Arrays.toString(a12));
+        System.out.println(Arrays.binarySearch(a12,5));
+        System.out.println(Arrays.binarySearch(a12,79));
 
     }
 }

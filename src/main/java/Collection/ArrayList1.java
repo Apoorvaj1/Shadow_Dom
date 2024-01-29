@@ -1,9 +1,6 @@
 package Collection;
 
-import java.util.Iterator;
-import java.util.List;
-import java.util.ArrayList;
-import java.util.ListIterator;
+import java.util.*;
 
 public class ArrayList1 {
     public static void main(String[] args) {
@@ -77,8 +74,11 @@ public class ArrayList1 {
         }
         System.out.println();
 
-        List<Object> ab1 = List.of("Apoorv","Jain");
+        List<Object> ab1 = List.of("Apoorv","Jain",12);
         System.out.println(ab1);
+
+        List<Object> ab2 = Arrays.asList("Apoorv",12);
+        System.out.println(ab2);
 
         System.out.println("--------------------------------");
 
@@ -89,7 +89,7 @@ public class ArrayList1 {
 
         ListIterator li = list.listIterator();
         while(li.hasNext()){
-            System.out.println(li.next());
+            System.out.print(li.next()+" ");
         }
 
     }
