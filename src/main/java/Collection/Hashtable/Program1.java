@@ -1,6 +1,7 @@
 package Collection.Hashtable;
 
 import java.util.Hashtable;
+import java.util.Map;
 
 public class Program1 {
     int i;
@@ -24,6 +25,7 @@ public class Program1 {
      a.put(new Program1(5),"A");
      a.put(new Program1(6),"B");
      a.put(new Program1(12),"C");
+
 
      System.out.println(a);
     }

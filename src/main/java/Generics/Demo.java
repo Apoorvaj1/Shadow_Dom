@@ -7,9 +7,9 @@ class Child<T extends Number>{
        this.b = b;
    }
 
-   public int add(T a,T b) {
+   public Integer  add(T a,T b) {
     System.out.println("Hello");
-    return this.a+this.b;
+    return a.intValue()+b.intValue();
    }
 
 }
@@ -17,7 +17,7 @@ public class Demo {
     public static void main(String[] args) {
         Child<Integer> a = new Child<>(10,20);
         System.out.println(a.a +" "+a.b);
-        a.add(10,3);
+        System.out.println(a.add(10,3));
         //System.out.println(Integer.this.a);
     }
 }
