@@ -2,7 +2,7 @@ package Questions_04thFeb;
 
 public class Program_4 {
 
-    public static void SumArray(int arr[]){
+    public static void SumArray(int[] arr){
         int sum =0;
         for(int i=0;i<arr.length;i++){
             sum = sum+arr[i];

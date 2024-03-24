@@ -13,5 +13,10 @@ public class ReverseString {
             System.out.println(a2[i]);
         }
 
+        for(char a3:a2){
+            System.out.print(a3);
+        }
+        System.out.println();
+
     }
 }

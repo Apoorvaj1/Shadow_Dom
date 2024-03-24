@@ -15,6 +15,5 @@ public class Program_2 {
         System.out.println(Arrays.deepToString(c));
         // int[][] d = { b, c };
         // System.out.println(Arrays.deepToString(d));
-        //System.out.println("Thanks for visiting https://onurdesk.com");
     }
 }
