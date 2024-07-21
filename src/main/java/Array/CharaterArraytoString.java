@@ -17,8 +17,9 @@ public class CharaterArraytoString {
         char[] str1 = s.toCharArray();
         System.out.println(str1);
         for(char str2:str1){
-            System.out.println(str2);
+            System.out.print(str2);
         }
+        System.out.println();
 
         String[] str4 = new String[]{"Apoorv","Jain"};
         System.out.println(str4.length);

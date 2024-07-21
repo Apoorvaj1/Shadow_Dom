@@ -1,0 +1,31 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Apoorv" 3 times.(«ã¬áüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¢¨Ûÿÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "a3".( ³¿ˆøÿÿÿÿ
+@	java:S106	"+Replace this use of System.out by a logger.(÷ïê’
+E	java:S106
+"+Replace this use of System.out by a logger.(í†ÙÞøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¨¤¼˜ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(±“‰¿üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(«Øº¾ûÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(æ…Ãb
+E	java:S106"+Replace this use of System.out by a logger.(Ê‡ÇÃýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Õñ–‹üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ñ–Ö–
+@	java:S106!"+Replace this use of System.out by a logger.(®ª·µ
+E	java:S106$"+Replace this use of System.out by a logger.(¼ûåÿÿÿÿÿ
+?	java:S106%"+Replace this use of System.out by a logger.(¤»´
+@	java:S106("+Replace this use of System.out by a logger.(Üâ½Û
+@	java:S106)"+Replace this use of System.out by a logger.(ƒ·™¬
+@	java:S106*"+Replace this use of System.out by a logger.(êÑ˜Å
+6
+java:S2129." Remove this "String" constructor(ÞÕî£
+@	java:S106/"+Replace this use of System.out by a logger.(Óí„¾
+E	java:S1060"+Replace this use of System.out by a logger.(Õï“øÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(…€¥®
+@	java:S1069"+Replace this use of System.out by a logger.(”Û¨Ð
+E	java:S106;"+Replace this use of System.out by a logger.(—™”¬øÿÿÿÿ
+;
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©

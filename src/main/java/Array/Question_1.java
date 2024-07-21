@@ -25,6 +25,10 @@ public class Question_1 {
         for(int i=0;i<array.length;i++){
             array[i]=sc.nextInt();
         }
+        for(int arr1:array){
+            System.out.print(arr1+"\t");
+        }
+        System.out.println();
         System.out.println(Arrays.toString(array));
         System.out.println("Enter number that you want to search");
         int n1 = sc.nextInt();

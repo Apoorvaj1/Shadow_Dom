@@ -1,0 +1,29 @@
+
+ˆ
+java:S1192"GDefine a constant instead of duplicating this literal "Apoorv" 3 times.(Ù”åÍûÿÿÿÿJ$229ee51b-c5f0-4949-b4a7-72553ec4e226
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿJ$284dfcd7-1924-401f-b6c9-c73d94282a0b
+ 
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ãø…˜ÿÿÿÿÿJ$c1c3da1a-9f6c-4995-a2ca-b5cf92db9678
+ 
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŞìÀıÿÿÿÿJ$78489b91-d0b1-4f7f-8272-fad64def17b1
+›
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•æçJ$75ce7b62-ad2f-4c2f-b77f-10c544b8eaaa
+›
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÉÿÏ¬J$cdfbf1a3-a803-4986-b303-37c2a82c5b6b
+a
+java:S2129" Remove this "String" constructor(ùÿĞ«şÿÿÿÿJ$4a7a9442-7f47-4cf8-9379-4f0d24815ba3
+k
+java:S2201"*The return value of "concat" must be used.(Ù”åÍûÿÿÿÿJ$f9ba9d49-424c-4df8-abeb-a46448e0443c
+k	java:S106	"+Replace this use of System.out by a logger.(Å­ËİúÿÿÿÿJ$f93c66fb-0b00-4e5f-a002-eb09729b6080
+k	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿJ$6f1500ad-ecd8-4add-9e02-ed6c715bdf06
+k	java:S106"+Replace this use of System.out by a logger.(Ìˆ–€ÿÿÿÿÿJ$0cbb13a1-3529-4cbd-bd60-7dbaec8e91f4
+k	java:S106"+Replace this use of System.out by a logger.(ïûêìşÿÿÿÿJ$d3975626-45d6-4bf5-bc9d-53e1ba996621
+f	java:S106"+Replace this use of System.out by a logger.(§Ì…ÓJ$fd9904fe-cc80-4333-98a4-51feb3c13664
+|	java:S125"<This block of commented-out lines of code should be removed.(ØÍâ·øÿÿÿÿJ$a7db12eb-a7c0-48cf-a869-5e6295971057
+f	java:S106"+Replace this use of System.out by a logger.(‹ê¶J$d4c7007c-9e61-4591-9520-2be23d14aaaa
+k	java:S106"+Replace this use of System.out by a logger.(€„©îÿÿÿÿÿJ$732f9981-2009-4c3f-9d1d-61ecf7d2433f
+f	java:S106"+Replace this use of System.out by a logger.(ò¤µæJ$997a20a8-ef4a-4150-a73d-49f91fa4a19c
+k	java:S106"+Replace this use of System.out by a logger.(¤ªñúÿÿÿÿJ$cb1c96d6-46c3-46a9-9766-55e2b2642859
+f	java:S106!"+Replace this use of System.out by a logger.(Ò«ÿÙJ$26e9e3db-4e2d-4108-b5e6-860264085127
+l
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒJ$01169592-19d3-49e3-918c-c562e1729900

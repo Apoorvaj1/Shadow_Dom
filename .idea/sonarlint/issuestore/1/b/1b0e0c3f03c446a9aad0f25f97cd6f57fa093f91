@@ -1,0 +1,16 @@
+
+x
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ì’ƒŠJ$edc365b7-21a8-40b4-bf83-a006d6649230
+}
+java:S4973"<Strings and Boxed types should be compared using "equals()".(şùÁûúÿÿÿÿJ$8e86292d-16cb-4524-8cee-9a41e17249d0
+}
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‡ÕóøÿÿÿÿJ$7f1dbd5a-a3fb-40f0-8e21-321fc5950026
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿJ$bd1ce3b5-ef06-46f6-8f41-b267efd26949
+w
+java:S1854"6Remove this useless assignment to local variable "s2".(¥¿ïùÿÿÿÿJ$5f0dfc26-cf3a-42dc-be64-c37d51eac496
+k	java:S106
+"+Replace this use of System.out by a logger.(Å­ËİúÿÿÿÿJ$a7d66501-afa9-4e9a-be36-1b3c0845f7f4
+w	java:S125	"<This block of commented-out lines of code should be removed.(ÁøºJ$b4308026-9436-49fa-97dd-c47287460a28
+f	java:S106"+Replace this use of System.out by a logger.(Ì’ƒŠJ$22f6119b-e8ae-407b-a683-d6b9d2c7f2de
+k	java:S106"+Replace this use of System.out by a logger.(şùÁûúÿÿÿÿJ$9c2e7f9f-d626-476c-b97f-0301059a173c
+k	java:S106"+Replace this use of System.out by a logger.(‡ÕóøÿÿÿÿJ$e4712629-1766-493e-b35e-9d6ea55bed4c

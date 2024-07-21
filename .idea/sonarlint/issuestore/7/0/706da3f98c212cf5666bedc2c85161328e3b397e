@@ -1,0 +1,26 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Apoorv" 4 times.(ğàÎúÿÿÿÿ
+R
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(‰ıáä
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(œßãüÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ã…ı™
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ê¬²êıÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ŸÆİËøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(™Ï•èùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ùÂ§‘
+@	java:S106	"+Replace this use of System.out by a logger.(‰ıáä
+6
+java:S2129
+" Remove this "String" constructor(ı¡Õ‹
+E	java:S106"+Replace this use of System.out by a logger.(œßãüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ã…ı™
+E	java:S106"+Replace this use of System.out by a logger.(Ê¬²êıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ŸÆİËøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(åÏ–«

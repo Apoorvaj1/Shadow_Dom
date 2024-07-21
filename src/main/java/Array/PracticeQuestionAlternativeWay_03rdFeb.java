@@ -6,7 +6,7 @@ public class PracticeQuestionAlternativeWay_03rdFeb {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any size");
-        int i,j;
+        int i;
         int size = sc.nextInt();
         System.out.println("Enter array input");
         int[] arr = new int[size];

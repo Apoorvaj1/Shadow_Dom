@@ -1,0 +1,22 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éáŒÎşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûúì
+E	java:S106"+Replace this use of System.out by a logger.(ˆ ëÌşÿÿÿÿ
+?	java:S106
+"+Replace this use of System.out by a logger.(ƒéõ
+J
+java:S2387"5"age" is the name of a field in "Practice_23rdmarch".(Ê„µ2
+P
+java:S1161":Add the "@Override" annotation above this method signature(İü²ó
+@	java:S106"+Replace this use of System.out by a logger.(ôÌ¿ò
+E	java:S106"+Replace this use of System.out by a logger.(ˆ ëÌşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¬Òø„
+E	java:S106"+Replace this use of System.out by a logger.(Ù¿éûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ğÍÉıÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ
+K
+java:S1854+"5Remove this useless assignment to local variable "c".(Šš’‚
+E	java:S106'"+Replace this use of System.out by a logger.(ğ³æÂûÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(ğ³æÂûÿÿÿÿ
+<
+java:S1481+"&Remove this unused "c" local variable.(Šš’‚

@@ -17,5 +17,7 @@ public class Demo1 {
         System.out.println(s3);
         System.out.println(s3.getClass().getSimpleName());
         System.out.println(s2);
+        char[] ch = s2.toCharArray();
+        System.out.println(ch);
     }
 }

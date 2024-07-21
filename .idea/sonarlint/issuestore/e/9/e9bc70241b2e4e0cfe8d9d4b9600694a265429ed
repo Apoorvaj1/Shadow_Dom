@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ»¾îÿÿÿÿÿJ$cca7d1c2-055c-4c15-b726-a200de11adb5
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿJ$24821bde-75a2-40c3-92d1-ea49bc5f3621
+f	java:S106
+"+Replace this use of System.out by a logger.(ñ´Ã†J$ac4e05a0-34e3-481a-9d61-00b94963c435
+k	java:S106"+Replace this use of System.out by a logger.(²Ùà©şÿÿÿÿJ$df96ce85-109a-4266-84fc-4f0ca3332163
+k	java:S106"+Replace this use of System.out by a logger.(ÔäëÍÿÿÿÿÿJ$b6ca3f58-a78f-420d-a55a-552da2a34a08
+k	java:S106"+Replace this use of System.out by a logger.(àÕêåşÿÿÿÿJ$ceda3107-9b4f-4d60-8954-d07392cce7a8
+k	java:S106"+Replace this use of System.out by a logger.(›µ²ØøÿÿÿÿJ$e0cb0c31-3e43-4f78-9085-9f4a475fa91c
+k	java:S106"+Replace this use of System.out by a logger.(Ãˆµ÷úÿÿÿÿJ$d341c585-2a17-43fe-9a80-a79120684214
+c
+java:S1125#"'Remove the unnecessary boolean literal.(ûÅŸJ$45d3f760-5cf5-4d60-bf97-8e9ae3fe7412
+f	java:S106$"+Replace this use of System.out by a logger.(ğ•£‹J$9ac3f456-8e4d-4b7c-b5cc-f59488eb53ad

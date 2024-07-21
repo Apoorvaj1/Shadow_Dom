@@ -1,0 +1,35 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Apoorv" 3 times.(’å½÷ıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(£ƒÊô
+E	java:S106"+Replace this use of System.out by a logger.(»Äÿ«ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(÷ïê’
+@	java:S106"+Replace this use of System.out by a logger.(áÂª
+;
+java:S2116"%Use "Arrays.toString(array)" instead.(áÂª
+E	java:S106"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(«…™ß
+@	java:S106"+Replace this use of System.out by a logger.(ô®Æ¡
+V
+java:S2133"@Remove this object instantiation and use "String.class" instead.(«…™ß
+@	java:S106"+Replace this use of System.out by a logger.(ı§ğ¼
+`
+java:S2133"ERemove this object instantiation and use "StringClass.class" instead.(åıİ£úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(÷ÜÌ
+E	java:S106"+Replace this use of System.out by a logger.(ğ³æÂûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ò­Î…
+E	java:S106"+Replace this use of System.out by a logger.(í¹İşÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(›†éÏüÿÿÿÿ
+@	java:S106%"+Replace this use of System.out by a logger.(—Ş“
+E	java:S106&"+Replace this use of System.out by a logger.(ÜüÒĞøÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(Ì¡¤
+?	java:S106*"+Replace this use of System.out by a logger.(÷Å‘Y
+@	java:S106-"+Replace this use of System.out by a logger.(Ù©È±
+E	java:S106/"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+6
+java:S21291" Remove this "String" constructor(¶ÑŸî
+?	java:S1062"+Replace this use of System.out by a logger.(ş‰åX
+@	java:S1064"+Replace this use of System.out by a logger.(ùÈ°Ğ
